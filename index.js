@@ -306,7 +306,7 @@
 						 $(".ty-transfer .transfer-list-right ul").append(liSpan.parents('li'));
 					})
 				}
-			}
+			},
 			
 			initCss: function(){
 				/** 添加样式 */
