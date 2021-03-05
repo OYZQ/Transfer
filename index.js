@@ -794,8 +794,7 @@ a:active {
 
 .ty-transfer .shrinkIcon {
 	background-position-y: 3px;
-}</style>
-`)
+}</style>`)
 			}
 		}
 		new transferItem(this, options)
