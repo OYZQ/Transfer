@@ -15,7 +15,7 @@ $("#shuttleBox").transferItem({
 // 数据移动（数据回显）
 // arrId:['1'，'2'...] 数据id
 // direction：left||right,默认left（把左侧穿梭框对应id数据移到右侧）
-moveTransfer: function (arrId,direction)
+moveTransfer(arrId,direction)
 
 // 更多功能待开发
 ````
